@@ -1,0 +1,32 @@
+{
+"DeckName": "Cinnamon custom cards",
+
+    "DeckBy": "Lastation Community",
+
+    "Truths": [
+        "What is your favorite sex position?",
+        "What is your favorite time of the day?",
+        "Why did you become a furry?",
+        "What are your plans for tonight with anyone?",
+        "Favorite friend?"
+    ],
+    "Player_Truths": [
+        "What is your honest opinion of <player>?",
+        "What do you like doing with <player>'s avatar?",
+        "What are your sexual thoughts about <player>'s voice?",
+        "Are you best friends with <player>?",
+        "Name one thing you would want to do with <player>."
+    ],
+    "Dares": [
+        "touch yourself until next turn.",
+        "Change to your most favorite nsfw avatar.",
+        "Pick a player to roll 2 dares on their next turn.",
+        "Post the latest image you have saved.",
+        "Drink a glass of Anything."
+    ],
+    "Player_Dares": [
+        "cuddle <player>.",
+        "boop <player>'s nose.",
+        "Sit in the lap <player>."
+    ]
+}
